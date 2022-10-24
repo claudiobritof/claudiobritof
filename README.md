@@ -1,16 +1,18 @@
-### Hi there 👋
+📫 How to reach me: ...
 
-<!--
-**claudiobritof/claudiobritof** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+📚With a Financial Markets and Crypto background, started coding studies in 2022:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+   📗First language: Python
+
+   📙Currently learning: HTML, CSS and JavaScript.
+
+💼Currently working as a Senior Data Analyst, but now looking for a starter Front-End job.
+
+
+
+<div align="center">
+  <a href="https://github.com/claudiobritof">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaballerini&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaballerini&layout=compact&langs_count=7&theme=dracula"/>
+</div>
