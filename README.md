@@ -1,11 +1,8 @@
-📫 How to reach me: ...
+📚With a Financial Markets and Crypto background, started coding studies intensely in 2022:
 
+---> 📗First languages: C++ and Python.
 
-📚With a Financial Markets and Crypto background, started coding studies in 2022:
-
----📗First language: Python
-
----📙Currently learning: HTML, CSS and JavaScript.
+---> 📙Currently learning: HTML, CSS and JavaScript.
 
 💼Currently working as a Senior Data Analyst, but now looking for a starter Front-End job.
 
