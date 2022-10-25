@@ -1,10 +1,10 @@
-📚With a Financial Markets and Crypto background, started coding studies intensely in 2022:
+📚 With a Financial Markets and Crypto background, started coding studies intensely in 2022:
 
----> 📗First languages: C++ and Python.
+---> 📗 First languages: C++ and Python.
 
----> 📙Currently learning: HTML, CSS and JavaScript.
+---> 📙 Currently learning: HTML, CSS and JavaScript.
 
-💼Currently working as a Senior Data Analyst, but now looking for a starter Front-End job.
+💼 Currently working as a Senior Data Analyst, but now looking for a starter Front-End job.
 
 <div align="center">
   <a href="https://github.com/claudiobritof">
@@ -28,3 +28,7 @@
   <a href = "mailto:cabf.brito@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/claudiobritof/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://discord.com/users/claudio-brito#2750" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+
+![Snake animation](https://github.com/claudiobritof/claudiobritof/blob/output/github-contribution-grid-snake.svg)
+ 
+</div>
