@@ -4,7 +4,7 @@
 
 ---> 📙 Currently learning: HTML, CSS and JavaScript.
 
-💼 Currently working as a Senior Data Analyst, but now looking for a starter Front-End job.
+💼 Currently working as a Senior Financial Analyst, but now looking for a starter Front-End job.
 
 <div align="center">
   <a href="https://github.com/claudiobritof">
