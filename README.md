@@ -1,8 +1,8 @@
 📚 With a Financial Markets and Crypto background, started coding studies intensely in 2022:
 
----> 📗 First languages: C++ and Python.
+---> 📗 First languages: C++, HTML, CSS, SQL and Python.
 
----> 📙 Currently learning: HTML, CSS and JavaScript.
+---> 📙 Currently learning: AWS's Redshift, Azure.
 
 💼 Data Analyst.
 
