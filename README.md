@@ -1,12 +1,15 @@
+💼 Data Analyst. Main focus: Python, SQL, Power BI.
+
+📚 Bachelor's Degree (graduated): Industrial and Manufacturing Systems Engineering at Mackenzie-SP.
+
+📚 MBA (ongoing): Data Engineering & Data Engineering Cloud at XP Educação.
+
 With a Financial Markets and Crypto background, started coding studies intensely in 2022:
 
 ---> 📗 First languages: C++, HTML, CSS, SQL and Python.
 
 ---> 📙 Currently learning: AWS's Redshift, Azure.
 
-💼 Data Analyst.
-📚 Bachelor's Degree (graduated): Industrial and Manufacturing Systems Engineering at Mackenzie-SP.
-📚 MBA (ongoing): Data Engineering & Data Engineering Cloud at XP Educação.
 
 <div align="center">
   <a href="https://github.com/claudiobritof">
