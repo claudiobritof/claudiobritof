@@ -10,6 +10,9 @@ With a Financial Markets and Crypto background, started coding studies intensely
 
 ---> 📙 Currently learning: AWS's Redshift, Azure.
 
+Power BI reports:  
+001 - <a href="https://app.powerbi.com/groups/me/reports/f4c5f9eb-a131-4143-8d74-4c37dd763c92/ReportSection?experience=power-bi">HR Satisfaction Survey</a>   
+002 - <a href="https://app.powerbi.com/groups/me/reports/fae016a9-e950-4fa7-bd85-ad1edc8b1229/ReportSection?experience=power-bi">Sales Tracking</a>   
 
 <div align="center">
   <a href="https://github.com/claudiobritof">
@@ -23,6 +26,7 @@ With a Financial Markets and Crypto background, started coding studies intensely
   <img align="center" alt="Claudio-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg">
   <img align="center" alt="Claudio-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg">
   <img align="center" alt="Claudio-C++" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg">
+  <img align="center" alt="Claudio-PowerBI" height="30" width="40" src="https://logohistory.net/wp-content/uploads/2023/05/Power-BI-Logo.png">
 
 </div>
   
