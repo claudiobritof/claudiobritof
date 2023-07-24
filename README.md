@@ -8,7 +8,7 @@ With a Financial Markets and Crypto background, started coding studies intensely
 
 ---> 📗 First languages: C++, HTML, CSS, SQL and Python.
 
----> 📙 Currently learning: AWS's Redshift, Azure, Redis, MongoDB.
+---> 📙 Currently learning: AWS's Redshift, Azure, Redis, MongoDB, Neo4J.
 
 Power BI reports:  
 001 - <a href="https://app.powerbi.com/groups/me/reports/f4c5f9eb-a131-4143-8d74-4c37dd763c92/ReportSection?experience=power-bi">HR Satisfaction Survey</a>   
