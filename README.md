@@ -10,7 +10,7 @@ With a Financial Markets and Crypto background, started coding studies intensely
 
 ---> 📙 Currently learning: AWS's Redshift, Azure, Redis, MongoDB, Neo4J.
 
-Power BI reports:  
+Power BI public reports:  
 001 - <a href="https://app.powerbi.com/groups/me/reports/f4c5f9eb-a131-4143-8d74-4c37dd763c92/ReportSection?experience=power-bi">HR Satisfaction Survey</a>   
 002 - <a href="https://app.powerbi.com/groups/me/reports/fae016a9-e950-4fa7-bd85-ad1edc8b1229/ReportSection?experience=power-bi">Sales Tracking</a>   
 
