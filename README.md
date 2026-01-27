@@ -2,7 +2,7 @@
 
 📚 Bachelor's Degree (graduated): Industrial and Manufacturing Systems Engineering at Mackenzie-SP.
 
-📚 MBA (ongoing): Data Engineering & Data Engineering Cloud at XP Educação.
+📚 MBA (graduated): Data Engineering & Data Engineering Cloud at XP Educação.
 
 With a Financial Markets and Crypto background, started coding studies intensely in 2022:
 
